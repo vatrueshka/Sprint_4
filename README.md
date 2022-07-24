@@ -1,2 +1,2 @@
-# Sprint_4
-project for sprint 4 yandex-practicum qa-java
+## Проект 4-го спринта курса "Автоматизатор тестирования на Java"
+
